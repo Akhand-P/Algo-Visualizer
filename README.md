@@ -1,4 +1,4 @@
-# *_ALGORITHM APP_*  ![App Icon](images/icon-small.png)  
+# *_ALGORITHM APP_*   
 
 ## BASIC SORTING VISUALISATION
 > Understand the Sorting concept by visualizing it.
@@ -6,8 +6,7 @@
 
 ` WEBSITE LINKS ` : [Click Here](https://algo-visualizer-1.vercel.app/ "Algorithm App")
 
-### Website Preview
-![App Preview Gif](images/Algorithm_App.gif)
+
 
 ### Available Sorting Techniques :
   * Bubble Sort
@@ -68,8 +67,7 @@
   * Requires _AUTOMATIC REFRESH_ after Quick Sort
 
 
-# LICENSE
-This project is licensed under [MIT](LICENSE.txt "View License")
+
 
 > __Akhand Pratap Singh__
 >(Student, C.S.E)
