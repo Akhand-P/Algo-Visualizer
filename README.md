@@ -4,7 +4,7 @@
 > Understand the Sorting concept by visualizing it.
 > *Vizualization* _-_ *Definition* _-_ *Complexity* _-_ *Codes*
 
-` WEBSITE LINKS ` : [Click Here](https://sandeep-shaw10.github.io/Algorithm_App/ "Algorithm App")
+` WEBSITE LINKS ` : [Click Here](https://algo-visualizer-1.vercel.app/ "Algorithm App")
 
 ### Website Preview
 ![App Preview Gif](images/Algorithm_App.gif)
@@ -29,7 +29,7 @@
 # PRODUCTION 
 |Sl.| _Release Date_ | _Version_    | _Author_ |
 |---|----------------|--------------|----------|
-|1  |23th Dec, 2020  |v0.123.122.020|*`Sandeep Shaw`*|
+|1  |23th Dec, 2020  |v0.123.122.020|*`Akhand Pratap Singh`*|
 
 
 ### WEBSITE TYPE : _*`Static`*_
