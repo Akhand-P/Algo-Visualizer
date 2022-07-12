@@ -71,14 +71,12 @@
 # LICENSE
 This project is licensed under [MIT](LICENSE.txt "View License")
 
-> __Sandeep Shaw__
+> __Akhand Pratap Singh__
 >(Student, C.S.E)
 >
 >Follow me on :
->[LinkedIn](https://www.linkedin.com/in/sandeep-shaw-b47b47158/) |
->[Instagram](https://www.instagram.com/san_deep_10/) |
->[Youtube](https://www.youtube.com/channel/UCnzoz-Snqs689f1YLqi--zg) |
->[Github](https://github.com/sandeep-shaw10)
+>[LinkedIn](https://www.linkedin.com/in/akhand-pratap-singh-9b0360188/) |
+>[Github](https://github.com/AkhandPratap7Singh7)
 >
 >If you like this repository dont forget to give a star &#128077;
 
