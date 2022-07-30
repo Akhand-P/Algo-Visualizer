@@ -28,7 +28,7 @@
 # PRODUCTION 
 |Sl.| _Release Date_ | _Version_    | _Author_ |
 |---|----------------|--------------|----------|
-|1  |23th Dec, 2020  |v0.123.122.020|*`Akhand Pratap Singh`*|
+|1  |23th jan, 2021  |v0.123.122.020|`Akhand Pratap Singh`|
 
 
 ### WEBSITE TYPE : _*`Static`*_
@@ -36,8 +36,6 @@
 ### CATEGORY : _`Educational`_
 
 ### LANGUAGE :  `HTML5` `CSS3` `JavaScript`
-
-### LIBRARY / FRAMEWORK : `JQuery` `Bootstrap`
 
 ### DATABASE TYPE : ~~`NoSQL`~~ ~~`Relational SQL`~~
 
